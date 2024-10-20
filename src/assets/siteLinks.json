@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "BingAI",
-    "link": "https://copilot.yeyuqiufeng.cn/web/#/"
+    "link": "https://copilot.yeyuqiufeng.cn/"
   },
   {
     "icon": "Cloud",
@@ -16,22 +16,22 @@
   },
   {
     "icon": "Compass",
-    "name": "B站",
-    "link": "https://www.bilibili.com/"
+    "name": "计算器",
+    "link": "https://jisuanqi.yeyuqiufeng.cn/"
   },
   {
     "icon": "Book",
-    "name": "B站视频下载",
-    "link": "https://snapany.com/zh/bilibili"
+    "name": "github资源快速下载",
+    "link": "https://g.yeyuqiufeng.cn/"
   },
   {
     "icon": "Fire",
-    "name": "没做",
-    "link": "https://hot.imsyy.top/"
+    "name": "小游戏",
+    "link": "https://mikutap.yeyuqiufeng.cn/"
   },
   {
     "icon": "LaptopCode",
-    "name": "百度",
-    "link": "https://baidu.com"
+    "name": "这啥也没有",
+    "link": "https://error.yeyuqiufeng.cn/"
   }
 ]
