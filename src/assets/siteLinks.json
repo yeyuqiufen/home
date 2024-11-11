@@ -1,18 +1,18 @@
 [
   {
     "icon": "Blog",
-    "name": "BingAI",
+    "name": "AI绘画（免费FLUX）",
     "link": "https://copilot.yeyuqiufeng.cn/"
   },
   {
     "icon": "Cloud",
-    "name": "cloudflare",
+    "name": "网络代理（国外）",
     "link": "https://dash.cloudflare.com/"
   },
   {
     "icon": "CompactDisc",
-    "name": "必应搜索",
-    "link": "https://cn.bing.com/"
+    "name": "免费AI聊天",
+    "link": "https://proxy.yeyuqiufeng.cn/https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1"
   },
   {
     "icon": "Compass",
